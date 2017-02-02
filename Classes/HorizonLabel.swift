@@ -9,6 +9,7 @@
 
 /*
  CGColor: A set of components that define a color, with a color space specifying how to interpret them.
+ CGFloat : The basic type for floating-point scalar values in Core Graphics and related frameworks.
  */
 
 // Temel mantık uygulamada ekranda bir label yani bir yazı var yazının saydamlıgını azaltıp bir başlangıç ve bitiş noktaları verip bir gradyanı yazının üstünde soldan saga dogru kaydırma işlemi.
